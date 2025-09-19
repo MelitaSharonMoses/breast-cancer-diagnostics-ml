@@ -37,6 +37,4 @@ The models demonstrated high accuracy in classifying tumors. The **Random Forest
   * Matplotlib
   * Seaborn
 
-## 7\. License
-
 This project is licensed under the MIT License. See the `LICENSE` file for details.
